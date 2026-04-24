@@ -44,7 +44,7 @@ function App() {
       <h1>FastAPI + React Demo</h1>
 
       {/* Hello */}
-      <button onClick={getHello}>Get Hello</button>
+      <button onClick={getHello}>Get Hello1</button>
       <p>{hello}</p>
 
       {/* Health */}
